@@ -1,0 +1,13 @@
+C:\Users\hasan\source\repos\kitapokumaplatformu\kitapokumaplatformu\bin\Debug\kitapokumaplatformu.exe.config
+C:\Users\hasan\source\repos\kitapokumaplatformu\kitapokumaplatformu\bin\Debug\kitapokumaplatformu.exe
+C:\Users\hasan\source\repos\kitapokumaplatformu\kitapokumaplatformu\bin\Debug\kitapokumaplatformu.pdb
+C:\Users\hasan\source\repos\kitapokumaplatformu\kitapokumaplatformu\obj\Debug\kitapokumaplatformu.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\kitapokumaplatformu\kitapokumaplatformu\obj\Debug\kitapokumaplatformu.anasayfa.resources
+C:\Users\hasan\source\repos\kitapokumaplatformu\kitapokumaplatformu\obj\Debug\kitapokumaplatformu.Form1.resources
+C:\Users\hasan\source\repos\kitapokumaplatformu\kitapokumaplatformu\obj\Debug\kitapokumaplatformu.kitapekle.resources
+C:\Users\hasan\source\repos\kitapokumaplatformu\kitapokumaplatformu\obj\Debug\kitapokumaplatformu.kitapoku.resources
+C:\Users\hasan\source\repos\kitapokumaplatformu\kitapokumaplatformu\obj\Debug\kitapokumaplatformu.Properties.Resources.resources
+C:\Users\hasan\source\repos\kitapokumaplatformu\kitapokumaplatformu\obj\Debug\kitapokumaplatformu.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\kitapokumaplatformu\kitapokumaplatformu\obj\Debug\kitapokumaplatformu.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\kitapokumaplatformu\kitapokumaplatformu\obj\Debug\kitapokumaplatformu.exe
+C:\Users\hasan\source\repos\kitapokumaplatformu\kitapokumaplatformu\obj\Debug\kitapokumaplatformu.pdb
